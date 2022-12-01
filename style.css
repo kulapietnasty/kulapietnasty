@@ -1,0 +1,192 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container {
+   
+    background-color: rgb(38, 38, 38);
+    height: 39.3vh;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    display: flex;
+}
+
+
+.btn {
+    background: transparent;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 800;
+    font-size: 20px;
+    box-shadow: 0 0 0 white;
+    transition: ease-in .2s;
+    justify-items: center;
+    align-items: center;
+
+}   
+
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: ease-in-out .2s;
+
+}
+.btn:hover {
+    box-shadow:0 0 20px #fff, 
+        inset 200px 0 #fff;
+        transition: ease-in-out .6s;
+
+
+}
+
+.btn:hover a {
+    color: rgb(38, 38, 38);
+
+
+}
+
+.dsc {
+    background: transparent;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 800;
+    font-size: 20px;
+    box-shadow: 0 0 0 white;
+    transition: ease-in .2s;
+    
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: ease-in-out .2s;
+
+}
+.dsc:hover {
+    box-shadow:0 0 20px #fff, 
+        inset 200px 0 #fff;
+        transition: ease-in-out .6s;
+
+
+}
+
+.dsc:hover a {
+    color: rgb(38, 38, 38);
+
+
+}
+
+
+.tik {
+    background: transparent;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 800;
+    font-size: 20px;
+    box-shadow: 0 0 0 white;
+    transition: ease-in .2s;
+    
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: ease-in-out .2s;
+
+}
+.tik:hover {
+    box-shadow:0 0 20px #fff, 
+        inset 200px 0 #fff;
+        transition: ease-in-out .6s;
+
+
+}
+
+
+
+.tik:hover a {
+    color: rgb(38, 38, 38);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.GH:hover a {
+    color: rgb(38, 38, 38);
+
+
+}
+
+
+.GH {
+    background: transparent;
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: 800;
+    font-size: 20px;
+    box-shadow: 0 0 0 white;
+    transition: ease-in .2s;
+    
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    transition: ease-in-out .2s;
+
+}
+.GH:hover {
+    box-shadow:0 0 20px #fff, 
+        inset 200px 0 #fff;
+        transition: ease-in-out .6s;
+
+
+}
+
+.GH:hover a {
+    color: rgb(38, 38, 38);
+
+
+}
+
+
+
+
